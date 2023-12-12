@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="xpp3_min-1.1.4c (2)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/ClothesSupermarketSystem_jar/xpp3_min-1.1.4c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/ClothesSupermarketSystem_jar/xstream-1.4.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

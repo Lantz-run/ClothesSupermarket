@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<list>
+    <clothes id = "001">
+        <brand>Y6Y</brand>
+        <style>修身牛仔长裤</style>
+        <color>黑灰色</color>
+        <size>M</size>
+        <num>10</num>
+        <price>53.9</price>
+        <description>夏季薄款2023新款</description>
+        <sum>539.9</sum>
+    </clothes>
+    <clothes id = "002">
+        <brand>小粽子家韩代</brand>
+        <style>美拉德皮衣</style>
+        <color>棕色</color>
+        <size>均码</size>
+        <num>40</num>
+        <price>419.9</price>
+        <description>baby酱同款ins秋季新款</description>
+        <sum>16796.0</sum>
+    </clothes>
+    <clothes id = "003">
+        <brand>美多家时尚</brand>
+        <style>正品女装23外套</style>
+        <color>灰色</color>
+        <size>F</size>
+        <num>25</num>
+        <price>1932.24</price>
+        <description>TM2D7-KCD205W</description>
+        <sum>48306.0</sum>
+    </clothes>
+    <clothes id = "004">
+        <brand>卡拉尔贝齐</brand>
+        <style>连衣裙</style>
+        <color>黑色</color>
+        <size>M</size>
+        <num>40</num>
+        <price>59.9</price>
+        <description>2023新款茶歇法式</description>
+        <sum>2396.0</sum>
+    </clothes>
+    <clothes id = "005">
+        <brand>Accola</brand>
+        <style>复古浮雕连衣裙</style>
+        <color>白色</color>
+        <size>M</size>
+        <num>60</num>
+        <price>69</price>
+        <description>茶歇法式气质温柔炸街</description>
+        <sum>4140.0</sum>
+    </clothes>
+    <clothes id = "006">
+        <brand>xxgogo</brand>
+        <style>抽绳连帽卫衣</style>
+        <color>黑色</color>
+        <size>M</size>
+        <num>50</num>
+        <price>239</price>
+        <description>秋季宽松上衣简约卡通猫咪</description>
+        <sum>11950.0</sum>
+    </clothes>
+    <clothes id = "007">
+        <brand>XXGOGO</brand>
+        <style>翻领宽松夹克</style>
+        <color>黑色</color>
+        <size>M</size>
+        <num>28</num>
+        <price>209</price>
+        <description>国潮牌动漫学生外套</description>
+        <sum>5852.0</sum>
+    </clothes>
+    <clothes id = "008">
+        <brand>BJHG</brand>
+        <style>休闲POLO衫短袖T恤</style>
+        <color>活力白</color>
+        <size>M</size>
+        <num>29</num>
+        <price>139</price>
+        <description>夏季美式街头潮牌</description>
+        <sum>4031.0</sum>
+    </clothes>
+    <clothes id = "009">
+        <brand>rarn</brand>
+        <style>女短袖</style>
+        <color>蓝色</color>
+        <size>M</size>
+        <num>50</num>
+        <price>119.9</price>
+        <description>猫咪翻领针织夏季新款</description>
+        <sum>5995.0</sum>
+    </clothes>
+    <clothes id = "010">
+        <brand>卓灿</brand>
+        <style>宽松皮衣</style>
+        <color>黑色</color>
+        <size>M</size>
+        <num>57</num>
+        <price>137</price>
+        <description>机车风皮夹克ins港风高级感</description>
+        <sum>7809.0</sum>
+    </clothes>
+
+
+</list>

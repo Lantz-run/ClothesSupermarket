@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="pdfbox-app-3.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/pdfbox-app-3.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/pdfbox-tools-3.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/preflight-3.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-library-2.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xmpbox-3.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/fontbox-3.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

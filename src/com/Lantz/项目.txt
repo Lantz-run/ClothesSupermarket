@@ -1,0 +1,115 @@
+
+1、需求分析：
+（1）、项目场景：
+   电商的蓬勃发展给社会带来了极大的便利性，我们以一个衣服超市购物为背景，实现一个《衣超市自助购物系统》
+（2）、项目的购买商品的分析逻辑：
+   购买商品的简单逻辑是，列出库存商品->用户选择要购买的数量->验证库存是否充足（库存不足结束）->库存充足减库存->提交订单
+（3）、关于耦合性：
+   提前感受降低U层与业务层耦合性的编程思想，把依赖业务实现类优化为依赖业务接口，通过工厂+配置文件注入业务类对象，这就是著名的IOC原理
+
+相关文件的解释说明：
+    bean.xml: 用来专门配置相应的具体业务类，里面的配置。
+
+2、关于项目运行中的一些Exception：
+    java.lang.RuntimeException: org.dom4j.DocumentException的原因：
+    主要是因为xml文件的路径问题，是com/Lantz/bean.xml，src/com/Lantz/bean.xml和bean.xml都是错误的，运行后会报上一行的异常
+
+3、项目总结：
+    1、xml解析
+        xStream组件，dom4j组件
+    2、文件对象流输入输出
+    3、自定义异常
+    4、分层概念 view->service->dao(data access object)
+    5、设计模式：单例，工厂
+    6、集合
+    7、读取properties文件
+    8、UML时序图
+    9、Git
+
+
+
+
+备份信息：
+info.welcome = 欢迎使用《衣超市自助购物系统》
+info.login.reg = 1、登录  2、注册
+
+info.select = 请选择：
+
+input.username = 请输入用户名：
+input.password = 请输入密码：
+input.error = 输入有误，请重新输入！
+
+login.error = 登录失败！
+login.success = 登陆成功！
+reg.error = 注册失败！
+reg.success = 注册成功！
+
+username.notnull = 用户名不能为空！
+password.notnull = 密码不能为空！
+
+io.read.error = 读取数据失败！
+io.write.error = 写入数据失败！
+
+
+home.function = 1、查询全部订单 2、查找订单 3、购买 0、退出
+
+product.input.id = 请输入商品编号：
+product.input.shoppingNum = 请输入购买数量：
+product.num.error = 库存不足！
+
+product.buy.continue = 是否继续购买？1、是 2、否
+
+product.order.input.oid = 请输入订单编号：
+product.order.error = 没有此订单，请检查订单号是否正确！
+
+product.order.oid = 订单编号：
+product.order.createDate = 购买时间：
+product.order.sum = 总金额：
+
+info.exit = 谢谢使用，欢迎回家。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

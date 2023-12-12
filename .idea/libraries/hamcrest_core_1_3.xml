@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="hamcrest-core-1.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/ClothesSupermarketSystem_jar/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/ClothesSupermarketSystem_jar/junit-4.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/ClothesSupermarketSystem_jar/xpp3_min-1.1.4c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/ClothesSupermarketSystem_jar/xstream-1.4.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
